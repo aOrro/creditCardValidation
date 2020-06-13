@@ -1,2 +1,2 @@
 # creditCardValidation
-Finding invalid card numbers, identifying the companies issuers and converting invalid card numbers into valid ones
+Finding invalid card numbers, identifying the issuer companies and converting invalid card numbers into valid ones
